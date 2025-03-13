@@ -1,2 +1,2 @@
-# aproject
+# A project
 My first repo.
